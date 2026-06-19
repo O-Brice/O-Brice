@@ -19,16 +19,16 @@
   <tr>
     <td align="center">
       <a href="https://github.com/O-Brice/ft_printf">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfm.png" width="65px"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfn.png" width="65px"/>
       </a>
     </td>
     <td>FT_PRINTF 100 / 100 ✅</td>
     <td align="center">
       <a href="https://github.com/O-Brice/so_long">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png" width="65px"/>
+        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/fract-olm.png" width="65px"/>
       </a>
     </td>
-    <td>⭐⭐⭐ SO_LONG 125 / 100 ✅</td>
+    <td>⭐⭐⭐ FRACT-OL 125 / 100 ✅</td>
   </tr>
 
   <tr>
