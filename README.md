@@ -23,7 +23,7 @@
     <td>⭐⭐ GET_NEXT_LINE 125 / 100 ✅</td>
     <td align="center">
       <a href="https://github.com/O-Brice/ft_printf">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfn.png" width="65px"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" width="65px"/>
       </a>
     </td>
     <td>FT_PRINTF 100 / 100 ✅</td>
@@ -32,7 +32,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/O-Brice/push_swap">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" width="65px"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swape.png" width="65px"/>
       </a>
     </td>
     <td>PUSH_SWAP 100 / 100 ✅</td>
@@ -53,7 +53,7 @@
     <td>⭐⭐ FRACT-OL 125 / 100 ✅</td>
     <td align="center">
       <a href="https://github.com/O-Brice/philosophers">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophersn.png" width="65px"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png" width="65px"/>
       </a>
     </td>
     <td>PHILOSOPHERS 100 / 100 ✅</td>
@@ -62,13 +62,13 @@
   <tr>
     <td align="center">
       <a href="https://github.com/O-Brice/minishell">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelln.png" width="65px"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png" width="65px"/>
       </a>
     </td>
     <td>MINISHELL 101 / 100 ✅</td>
     <td align="center">
       <a href="https://github.com/O-Brice/NetPractice">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticen.png" width="65px"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticee.png" width="65px"/>
       </a>
     </td>
     <td>⭐ NETPRACTICE 100 / 100 ✅</td>
@@ -92,7 +92,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/O-Brice/inception">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/inceptionn.png" width="65px"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/inceptione.png" width="65px"/>
       </a>
     </td>
     <td>INCEPTION 100 / 100 ✅</td>
