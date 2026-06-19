@@ -31,13 +31,13 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/push_swap">
+      <a href="https://github.com/O-Brice/push_swap">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" width="65px"/>
       </a>
     </td>
     <td>PUSH_SWAP 100 / 100 ✅</td>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/pipex">
+      <a href="https://github.com/O-Brice/pipex">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png" width="65px"/>
       </a>
     </td>
@@ -46,13 +46,13 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/fract-ol">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/fract_olm.png" width="65px"/>
+      <a href="https://github.com/O-Brice/fract-ol">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/fract-olm.png" width="65px"/>
       </a>
     </td>
     <td>⭐⭐ FRACT-OL 125 / 100 ✅</td>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/philosophers">
+      <a href="https://github.com/O-Brice/philosophers">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophersn.png" width="65px"/>
       </a>
     </td>
@@ -61,13 +61,13 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/minishell">
+      <a href="https://github.com/O-Brice/minishell">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelln.png" width="65px"/>
       </a>
     </td>
     <td>MINISHELL 101 / 100 ✅</td>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/NetPractice">
+      <a href="https://github.com/O-Brice/NetPractice">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/netpracticen.png" width="65px"/>
       </a>
     </td>
@@ -76,13 +76,13 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/cube3d">
+      <a href="https://github.com/O-Brice/cube3d">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3de.png" width="65px"/>
       </a>
     </td>
     <td>CUBE3D 115 / 100 ✅</td>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/ft_irc">
+      <a href="https://github.com/O-Brice/ft_irc">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_ircn.png" width="65px"/>
       </a>
     </td>
@@ -91,13 +91,13 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/inception">
+      <a href="https://github.com/O-Brice/inception">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/inceptionn.png" width="65px"/>
       </a>
     </td>
     <td>INCEPTION 100 / 100 ✅</td>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/cpp">
+      <a href="https://github.com/O-Brice/cpp">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppn.png" width="65px"/>
       </a>
     </td>
@@ -106,7 +106,7 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/ft_transcendance">
+      <a href="https://github.com/O-Brice/ft_transcendance">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_transcendencee.png" width="65px"/>
       </a>
     </td>
