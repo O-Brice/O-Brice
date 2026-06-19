@@ -1,13 +1,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/libft">
+      <a href="https://github.com/O-Brice/libft">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" width="65px"/>
       </a>
     </td>
     <td>⭐ LIBFT 125 / 100 ✅</td>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/born2beroot">
+      <a href="https://github.com/O-Brice/born2beroot">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" width="65px"/>
       </a>
     </td>
@@ -16,13 +16,13 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/get_next_line">
+      <a href="https://github.com/O-Brice/get_next_line">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" width="65px"/>
       </a>
     </td>
     <td>⭐⭐ GET_NEXT_LINE 125 / 100 ✅</td>
     <td align="center">
-      <a href="https://github.com/TON_PSEUDO/ft_printf">
+      <a href="https://github.com/O-Brice/ft_printf">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfn.png" width="65px"/>
       </a>
     </td>
@@ -97,7 +97,7 @@
     </td>
     <td>INCEPTION 100 / 100 ✅</td>
     <td align="center">
-      <a href="https://github.com/O-Brice/cpp">
+      <a href="https://github.com/O-Brice/cpp-0---9">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppn.png" width="65px"/>
       </a>
     </td>
@@ -106,7 +106,7 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/O-Brice/ft_transcendance">
+      <a href="https://github.com/O-Brice/ft_transcendence">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_transcendencee.png" width="65px"/>
       </a>
     </td>
