@@ -7,10 +7,10 @@
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" width="65px"/>
       </a>
     </td>
-    <td>LIBFT 125 / 100 ✅</td>
+    <td>⭐ LIBFT 125 / 100 ✅</td>
     <td align="center">
       <a href="https://github.com/O-Brice/push_swap">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" width="65px"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapn.png" width="65px"/>
       </a>
     </td>
     <td>PUSH_SWAP 100 / 100 ✅</td>
