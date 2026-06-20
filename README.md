@@ -101,7 +101,7 @@
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppn.png" width="65px"/>
       </a>
     </td>
-    <td> CPP 00-09  90 / 100 ✅</td>
+    <td> CPP 00-09  91 / 100 ✅</td>
   </tr>
 
   <tr>
