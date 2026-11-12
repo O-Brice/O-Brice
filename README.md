@@ -116,6 +116,6 @@
         <img src="https://raw.githubusercontent.com/O-Brice/O-Brice/refs/heads/main/ft_ping.png" width="65px"/>
       </a>
     </td>
-    <td>FT_PING 100 / 100 ✅</td>
+    <td>FT_PING 125 / 100 ✅</td>
   </tr>
 </table>
