@@ -114,4 +114,24 @@
     <td></td>
     <td></td>
   </tr>
+    <tr>
+    <td align="center">
+      <a href="https://github.com/O-Brice/ft_ping">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_transcendencee.png" width="65px"/>
+      </a>
+    </td>
+    <td>⭐ FT_TRANSCENDANCE 105 / 100 ✅</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/O-Brice/ft_ping">
+        <img src="https://raw.githubusercontent.com/O-Brice/O-Brice/refs/heads/main/ft_ping.png" width="65px"/>
+      </a>
+    </td>
+    <td>NOM_DU_PROJET 125 / 100 ✅</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
