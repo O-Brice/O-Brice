@@ -123,6 +123,6 @@
         <img src="https://raw.githubusercontent.com/O-Brice/O-Brice/refs/heads/main/dslr.png" width="65px"/>
       </a>
     </td>
-    <td>FT_PING 110 / 100 ✅</td>
+    <td>DSLR 110 / 100 ✅</td>
   </tr>
 </table>
