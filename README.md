@@ -118,4 +118,11 @@
     </td>
     <td>FT_PING 125 / 100 ✅</td>
   </tr>
+      <td align="center">
+      <a href="https://github.com/O-Brice/DSLR">
+        <img src="https://raw.githubusercontent.com/O-Brice/O-Brice/refs/heads/main/dslr.png" width="65px"/>
+      </a>
+    </td>
+    <td>FT_PING 110 / 100 ✅</td>
+  </tr>
 </table>
